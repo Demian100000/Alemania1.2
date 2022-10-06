@@ -72,7 +72,7 @@ nav :hover{
     align-items: center;
     flex-direction: row;
     justify-content: center;
-    background-image: url(./Ale.img/Alemania.jpg);
+    background-image: url(../Ale.img/Alemania.jpg);
     background-size: cover;
     margin: auto;
     border-radius: 30px;
